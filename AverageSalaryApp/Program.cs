@@ -22,7 +22,7 @@ namespace AverageSalaryApp
             Console.WriteLine("Salario: ");
             p1.Salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double media = p.Salary + p1.Salary / 2;
+            double media = (p.Salary + p1.Salary) / 2.0;
 
             Console.WriteLine("Salário Médio " + media.ToString("F2", CultureInfo.InvariantCulture));
 
