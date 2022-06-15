@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwgP/wEL7p6Xm6l9RiHawRrr6akqBBT/08SzO54ijL+C8Swj9SMDKlLgbNYlqfDJrbJpHGb+ZclOxX/Caod0VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geremias.bezerra\\source\\repos\\AverageSalaryApp\\AverageSalaryApp\\AverageSalaryApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geremias.bezerra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

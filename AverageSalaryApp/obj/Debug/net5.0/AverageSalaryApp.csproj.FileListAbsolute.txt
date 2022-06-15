@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\AverageSalaryApp.exe
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\AverageSalaryApp.deps.json
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\AverageSalaryApp.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\AverageSalaryApp.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\AverageSalaryApp.dll
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\ref\AverageSalaryApp.dll
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\bin\Debug\net5.0\AverageSalaryApp.pdb
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.dll
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\ref\AverageSalaryApp.dll
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.pdb
+C:\Users\geremias.bezerra\source\repos\AverageSalaryApp\AverageSalaryApp\obj\Debug\net5.0\AverageSalaryApp.genruntimeconfig.cache
